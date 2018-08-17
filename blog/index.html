@@ -3,9 +3,10 @@ layout: default
 title: Raylyn's CREU Blog
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<dl class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » {{ post.title }}</li>
+	    <dt><span>{{ post.date | date_to_string }}</span> » {{ post.title }}</li>
+		<dd> {{ post.content }} <\dd>
 	  {% endfor %}
 	</ul>
