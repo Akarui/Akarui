@@ -6,7 +6,7 @@ title: Raylyn's CREU Blog
 	<dl class="posts">
 
 	  {% for post in site.posts %}
-	    <dt> <h2>{{ post.title }} >> {{ post.week }} <h3><span>{{ post.date | date_to_string }}</span></h3> </h2> 
-		<dd> <p style="font-size:1.1em";> {{ post.content }} </p>
+	    <dt> <h2>{{ post.week }} >> <span>{{ post.date | date_to_string }}</span></h2> 
+		<dd> <p style="font-size:1em";> {{ post.content }} </p>
 	  {% endfor %}
 	</dl>
