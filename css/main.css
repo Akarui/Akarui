@@ -3,13 +3,21 @@ body {
     width: 90%;
     background-color: #e1f0ff;
 }
-nav ul, footer ul {
+nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
     text-align: right;
 }
+footer ul {
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    text-align: right;
+}
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -40,7 +48,6 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    text-align: left;
 }
 
 ul.posts { 
