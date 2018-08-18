@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #ddebff;
+    background-color: #e1f0ff;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -31,10 +31,14 @@ h2 {
 h3 {
     font-size:1.3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    outline-color:#9dbee6; 
+    outline-style:solid
 }
 p {
     font-size: 1.3em;
     color: #333;
+    outline-color: #9dbee6; 
+    outline-style: double
 }
 footer {
     border-top: 1px solid #d5d5d5;
