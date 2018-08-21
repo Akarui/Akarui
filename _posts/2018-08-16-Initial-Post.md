@@ -4,3 +4,13 @@ title: "Raylyn's Blog Post 1"
 date: 2018-08-16
 week: Week 1
 ---
+
+I am pleased and very excited to inform you that our project,"Design and Evaluation of Interactive Mixed and Augmented Reality Systems to Improve Spatial Learning Effects when Teaching 3-Dimensional (3D) Spatial Concepts: A Case Study on 3D Neuroanatomy Courses" , has been selected for CREU funding! 
+
+There are a few things you need to complete asap BEFORE we get started- I have provided a detailed list below- so please complete these now before the semester starts. For now, let me know that you received this email but please let me know when you have completed the following tasks:  Letter of Agreement, Tax Documentation & W-9, Direct Deposit (optional), Website URL, and CREU Pre-Survey. 
+
+I have CC'ed Allyson Anderson on this email if you need help setting up a website directory to host your blog/web page for the project. (Allyson- please let me know if I am incorrect and should be contacting someone else for this assistance). Please send me your links and I can provide feedback for your website/blog pages.  
+
+I am so excited to begin working with you all! You all should be proud of yourselves! This is in of itself a big accomplishment! I will follow up soon with more details as to when we will be meeting, etc.  
+
+Also when communicating funding, making your website pages, etc. please use the logos for the sponsors are attached. 
