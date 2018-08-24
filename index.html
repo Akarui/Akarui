@@ -2,12 +2,11 @@
 layout: default
 title: Raylyn's CREU Blog
 ---
-<div class="blurb">
-	<h1>Raylyn's Current Courses</h1>
-	<h2>Computer Graphics</h2>
-	<h2>Operating Systems </h2>
-	<h2>Compilers</h2>
-	<h2>Technical Writing</h2>
-	<h2>U.S. and Wyoming Governemnt </h2>
-	
-</div><!-- /.blurb -->
+<h1> CREU Blog </h1>
+	<dl class="posts">
+		{% for post in site.posts %}
+			<dt> <h2>{{ post.week }} - <span>{{ post.date | date_to_string }}</span></h2> 
+			<dd> <p style="font-size:1em";> {{ post.content }} </p>
+		{% endfor %}	
+	</dl>
+
