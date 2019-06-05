@@ -1,14 +1,15 @@
 body {
-    margin: 60px auto;
+    
+	margin: auto;
     width: 95%;
-    background-color: #e1f0ff;
+    background-color: #e1faff;
 }
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    text-align: left;
+    text-align: right;
     font-size: 1.5em;
 }
 footer ul {
@@ -56,13 +57,30 @@ footer {
 img {
 	display: block;
 	margin-left: auto;
-	margin-right: right;
 	padding-bottom: 5%;
 	padding-top:2.5%;
 	height:auto;
 	width:auto;
 }
 
+.status {
+  float: left;
+  clear: none;
+}
+.circular--portrait {
+  float: left;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+
+}
+.circular--portrait img {
+	width: 100%;
+	height: auto;
+	
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
@@ -70,4 +88,9 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+.about{
+	padding-left: 300px;
+	height: 200px;
+	margin: 40px;
 }
