@@ -94,3 +94,12 @@ ul.posts li {
 	height: 200px;
 	margin: 40px;
 }
+.skill{
+	padding-left: 50px;
+}
+.skillImage{
+	float: left;
+	position: relative;
+	width: 200px;
+	height: 200px;
+}
