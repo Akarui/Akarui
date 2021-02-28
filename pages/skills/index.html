@@ -1,0 +1,14 @@
+---
+layout: default
+title: Skills
+---
+<h1> Skills <h1>
+<div class="languages_and_skills">
+	<h2> Languages <h2>
+
+	{% assign sorted = site.languages | sort:"rank" %}
+	{% for language in sorted %}
+	<!--This will soon describe each language and my proficiencies in each one-->
+		<h4> {{ language.title }} <h4>
+	{% endfor %}
+</div>

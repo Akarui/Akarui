@@ -1,2 +1,5 @@
 name: Raylyn's CREU Blog
 markdown: kramdown
+collections:
+    languages:
+        output: true
