@@ -70,8 +70,8 @@ img {
 .circular--portrait {
   float: left;
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   overflow: hidden;
   border-radius: 50%;
 
@@ -89,6 +89,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.about{
-	padding-left: 15%;
+.about p {
+	padding-left: 200px;
+}
+.about h2 {
+	padding-left: 200px;
 }
