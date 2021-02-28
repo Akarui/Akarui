@@ -67,22 +67,20 @@ img {
   float: left;
   clear: none;
 }
-.large--circular--portrait {
+.circular--portrait {
   float: left;
   position: relative;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   overflow: hidden;
   border-radius: 50%;
 
 }
-.large--circular--portrait img {
+.circular--portrait img {
 	width: 100%;
 	height: auto;
-	padding-top: 0;
 	
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
@@ -91,13 +89,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.about_me {
-	width: auto;
-}
-
-.about_me p {
-	margin-left: 200px;
-}
-.about_me h2 {
-	margin-left: 200px;
+.about{
+	padding-left: 15%;
 }
