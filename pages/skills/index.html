@@ -1,0 +1,28 @@
+---
+layout: default
+title: Skills
+---
+<h1> Skills <h1>
+<div class="languages_and_skills">
+	<h2> Languages <h2>
+
+	{% assign sorted = site.languages | sort:"proficiency" %}
+	{% for language in sorted %}
+	<!--This will soon describe each language and my proficiencies in each one-->
+		{% if language.proficiency == 1 %}
+			<h4 class="current_top_skill"> {{ language.title }} <h4>
+		{% endif %}
+		{% if language.proficiency == 2 %}
+			<h4 class="high_skill"> {{ language.title }} <h4>
+		{% endif %}
+		{% if language.proficiency == 3 %}
+			<h4 class="mid_skill"> {{ language.title }} <h4>
+		{% endif %}
+		{% if language.proficiency == 4 %}
+			<h4 class="low_mid_skill"> {{ language.title }} <h4>
+		{% endif %}
+		{% if language.proficiency == 5 %}
+			<h4 class="low_skill"> {{ language.title }} <h4>
+		{% endif %}
+	{% endfor %}
+</div>
