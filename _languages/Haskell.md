@@ -1,4 +1,4 @@
 ---
 title: Haskell
-rank: 4
+proficiency: 5
 ---

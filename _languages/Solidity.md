@@ -1,4 +1,4 @@
 ---
 title: Solidity
-rank: 3
+proficiency: 3
 ---

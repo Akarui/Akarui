@@ -67,6 +67,8 @@ img {
   float: left;
   clear: none;
 }
+
+/* ABOUT PAGE */
 .circular--portrait {
   float: left;
   position: relative;
@@ -96,6 +98,7 @@ ul.posts li {
 	padding-left: 200px;
 }
 
+/* SKILLS PAGE */
 .languages_and_skills h4 {
 	padding-left: 175px;
 	font-size: 24px;
@@ -105,4 +108,24 @@ ul.posts li {
 	padding-left: 100px;
 	font-size: 36px;
 	color: #224e76;
+}
+
+.current_top_skill {
+	color: #05994c;
+}
+
+.high_skill {
+	color: #118d4c;
+}
+
+.mid_skill {
+	color: #237b4d;
+}
+
+.low_mid_skill {
+	color: #35694e;
+}
+
+.low_skill {
+	color: #47574f;
 }

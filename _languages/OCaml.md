@@ -1,4 +1,4 @@
 ---
 title: OCaml
-rank: 5
+proficiency: 4
 ---

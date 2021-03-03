@@ -1,4 +1,4 @@
 ---
 title: C++
-rank: 2
+proficiency: 2
 ---

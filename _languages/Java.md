@@ -1,4 +1,4 @@
 ---
 title: Java
-rank: 1
+proficiency: 1
 ---

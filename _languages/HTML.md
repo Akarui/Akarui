@@ -1,4 +1,4 @@
 ---
 title: HTML
-rank: 6
+proficiency: 3
 ---

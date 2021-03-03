@@ -1,4 +1,4 @@
 ---
 title: CSS
-rank: 7
+proficiency: 4
 ---
